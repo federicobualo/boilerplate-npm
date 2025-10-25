@@ -3,7 +3,7 @@
 	"dependencies": {
 		
   "package-name": "version",
-  "express": "1.1.0"
+  "express": "1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -15,6 +15,6 @@
 		"description": "Proyecto personal",
 		"keywords": [ "freecodecamp", "teclab", "proyecto" ],
 		"license": "MIT",
-		"version": "1.1.0"
+		"version": "1.2.13"
 	}
 }
